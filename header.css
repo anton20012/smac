@@ -1,0 +1,50 @@
+.heading-1{  <!-- заголовок-->
+	text-align:  center;
+line-height: 65px;
+font-size: 36px;
+font-weight: 700;
+color: #fff;
+text-transform: uppercase;
+list-style: -2px;
+padding-top: 30px;
+
+}
+.heading-2{
+	margin-left: 280px;
+	text-align:  center;
+line-height: 65px;
+font-size: 36px;
+font-weight: 700;
+color: #111111;
+text-transform: uppercase;
+list-style: -2px;
+padding-top: 30px;
+}
+.heading{
+	padding-top: 20px;
+	margin-left: 250px;
+
+}
+.subtitle{
+
+	font-size: 15px;
+	color: #777777;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-right: -600px;
+	margin-left: 120px;
+	padding-right:  290px;
+	text-align: center;
+}
+.header-bloc{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+p{
+	display: block;
+	padding-left: 30px;
+}
+.title-cart{
+	padding-right:  20px;
+}

@@ -1,0 +1,29 @@
+ .button{
+ height: 20px;
+    border:  2px  solid #036894; 
+    color: #099CDB;
+	background-color:#036894 ;
+
+	border-right: 20px;
+	padding-left:35px; 
+	padding-right:35px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	font-size: 16px;
+	color: #fff;
+	font-weight: 700px;
+
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+ a:hover{
+    background: #23b7a4;
+    border-color:#23b7a4;
+    color:#fff;
+  }
+.button-clic{
+	padding-top: 300px;
+}

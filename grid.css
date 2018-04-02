@@ -1,0 +1,28 @@
+.grid{
+	display: flex;
+	flex-direction: row;
+}
+.container-fluid{
+	width: 100%;
+	height: 900px;
+	background-color:#090938;
+}
+.header-content{
+height: 250px;
+background-color: #010126;
+	text-align:  center;
+	width: 100%;
+	margin-top: -24px;
+	padding-top: 185px;
+
+}
+.header{
+	text-align: center;
+
+
+}
+.section-servis{
+	width: 1000px;
+	padding-top: 90px;
+	padding-bottom: 90px;
+}

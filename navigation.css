@@ -1,0 +1,39 @@
+.logo-holdet{
+	width: 220px;
+	height: 40px;
+	padding-top: 25px;
+	padding-left: 45px;
+}
+.naviation-holder{
+	width: 700px;
+	height: 40px;
+	padding-top:45px;
+	padding-left: 45px;
+
+}
+.navigation-list{
+	margin: 0;
+	padding: 0;
+	flex-direction: row;
+	list-style-type: none;
+	display: flex;
+	justify-content: flex-end;
+	text-transform: uppercase;
+	justify-content: space-between;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+.navigation{
+	 background-color: #1b1b1c;
+	 padding: 30px;
+	 display: flex;
+	 justify-content: space-between;
+}
+a:hover{
+	color: #1c1cdd;
+}
+a:focus{
+	color: red;
+}

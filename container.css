@@ -1,0 +1,21 @@
+.container{
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+
+}
+.container-pading{
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+}
+.card_team{
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px; 
+	display: flex;
+	justify-content: space-between;
+}
